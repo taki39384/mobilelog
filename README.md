@@ -1,24 +1,51 @@
-# README
+# アプリケーション名
+Mobile Log
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション概要
+家電販売スタッフ向けのモバイル販売・促進・管理アプリケーション。商品（スマホ）の登録管理、在庫管理のデジタル管理することで、家電販売スタッフの業務効率化及び効率的提案の促進する。
 
-Things you may want to cover:
+# URL
+https://mobile-log.onrender.com
 
-* Ruby version
+# テスト用アカウント
+- Basic認証パスワード：0810
+- Basic認証ID : asu
 
-* System dependencies
+# 利用方法
 
-* Configuration
 
-* Database creation
+# アプリケーションを作成した背景
+前職でスマホの在庫確認する時に、都度電話で確認する手間があり提案する時間がかかって非効率的である課題があった（在庫確認できるのがB1フロアのみ）。
+もしリアルタイムで在庫状況を各フロアPC及びスマホで確認できたら時間短縮でき、さらにアプローチに行ける時間が増え獲得向上することができる。
 
-* Database initialization
+# 洗い出した要件
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+# 実装した機能についての画像やGIFおよびその説明
+〜〜  画像やGIF、説明を記載  〜〜
 
-* Deployment instructions
+# 実装予定の機能
 
-* ...
+
+# データベース設計
+
+
+# 画面遷移図
+
+
+# 開発環境
+- HTML&CSS
+- Bootstrap
+- Ruby
+- Rails
+- JavaScript
+- Render
+- テスト
+- VS Code
+- GiT hub
+- Notion
+
+# ローカルでの動作方法
+
+
+# 工夫したポイント
