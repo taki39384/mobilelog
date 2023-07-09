@@ -1,0 +1,21 @@
+/*  メイン部分  */
+.custom-bg {
+  position: relative;
+  overflow: hidden;
+}
+
+.custom-bg::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: url('/assets/background-image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  opacity: 0.6; /* 透明度60% */
+  z-index: -1; /* 背景を最背面に配置 */
+}
